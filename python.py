@@ -9,7 +9,6 @@ def personal_info(first_name, last_name, date_of_birth, email):
     }
     return masked_information
 
-# Example usage:
 first_name = "Diana"
 last_name = "Mongina"
 date_of_birth = "1998-15-02"
